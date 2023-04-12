@@ -28,4 +28,4 @@ technical_background:
   
 currently_learning: ["Python for Data Science, AI & Development"]
 2023 Goals: ["Create new projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Singing", "Cinema", "Dancing"]
