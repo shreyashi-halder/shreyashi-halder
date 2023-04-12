@@ -26,3 +26,19 @@
 <span class="pl-ent">currently_learning</span>: <span class="pl-s">["Python for Data Science, AI & Development offered by IBM."]</span>
 <span class="pl-ent">2023 Goals</span>: <span class="pl-s">["Create 20+ Projects and learn at least 5 new Technologies."]</span>
 <span class="pl-ent">hobbies</span>: <span class="pl-s">["Singing", "Cinema", "Indian Classical Dance"]</span></pre>
+
+<hr>
+
+# <h2>Some Tools I Have Used and Learned</h2>
+
+<p>PHP</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>MYSQL</p>
+<p>Data Analyst</p>
+<p>Python</p>
+<p>Javascript</p>
+<p>Jquery</p>
+<p>Wordpress</p>
+<p>Woocommerce</p>
+
