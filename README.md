@@ -7,7 +7,7 @@
    <span class="pl-s">[</span>
    <span class="pl-s"><span class="pl-pds">"</span>Bachelors's in Information Technology<span class="pl-pds">"</span></span><span class="pl-s">,</span>
    <span class="pl-s">]</span>
-  <span class="pl-ent">company</span>: <span class="pl-s">Mampa Verlag</span>
+  <span class="pl-ent">company</span>: <span class="pl-s">Neolern GmbH</span>
   <span class="pl-ent">fields_of_interests</span>:
     <span class="pl-s">[</span>
     <span class="pl-s"><span class="pl-pds">"</span>Web Development<span class="pl-pds">"</span></span><span class="pl-s">,</span>
