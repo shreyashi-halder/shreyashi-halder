@@ -33,7 +33,9 @@
 # <h2>Some Tools I Have Used and Learned</h2>
 
 <p>PHP</p>
+<p>Python</p>
 <p>HTML</p>
+<p>Bootstrap</p>
 <p>CSS</p>
 <p>MYSQL</p>
 <p>Data Analyst</p>
